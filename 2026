@@ -56,7 +56,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:60 tvg-name="SINDO NEWS TV" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL", TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/97.0.4692.99%20Safari/537.36&referrer=http://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTINF:0 tvg-name="Trans 7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="NATIONAL", Trans 7
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:0 tvg-name="Trans TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NATIONAL", Trans TV 
