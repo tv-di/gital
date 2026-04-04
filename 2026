@@ -435,15 +435,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="NATIONAL",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="NATIONAL",MOJI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-#EXTINF:50 tvg-name="SINDO NEWS TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="NATIONAL", SINDO NEWS TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
+
 #EXTINF:60 tvg-name="TVONE" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL", TVONE
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=480x360
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
@@ -461,10 +453,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:0 tvg-name="MDTV" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="NATIONAL", MDTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXTINF:0 tvg-name="BTV" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png" group-title="NATIONAL", BTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:50 tvg-name="DAAI TV" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="NATIONAL", DAAI TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
 #EXTINF:0, VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 #EXTINF:0, KOREA
