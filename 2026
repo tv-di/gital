@@ -406,6 +406,10 @@ hhttps://op-group1-swiftservesd-1.dens.tv/s/s14/02.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="NATIONAL",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-name="BERITA SATU" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cd2114b4431/1f6507213c714e3c88e81200c15287d8.png" group-title="NATIONAL",BERITA SATU
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/balitv.jpg" group-title="NATIONAL",BALI TV (INDI)
